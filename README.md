@@ -11,10 +11,6 @@
 https://www.linkedin.com/in/tevin-falkner-36aa7468/
 
 
-<h2> Personal Projects</h2>
-
-- [Junior Sys Admin Linux home lab](https://github.com/TevinFa/Junior-Sys-Admin-Linux-home-lab)
-
 <!--
 
 - 🔭 I’m currently working on ...

@@ -13,8 +13,6 @@ https://www.linkedin.com/in/tevin-falkner-36aa7468/
 
 <h2> Personal Projects</h2>
 
-- [Setup Kali Linux Virtual Machine](https://github.com/TevinFa/SetupKaliLinuxVM)
-
 - [Junior Sys Admin Linux home lab](https://github.com/TevinFa/Junior-Sys-Admin-Linux-home-lab)
 
 <!--

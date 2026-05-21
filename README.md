@@ -1,6 +1,6 @@
 <h1> Welcome!</h1>
 
-<p>My name is Tevin Falkner and I am from Chicago, IL currently residing in Texas. I have 4+ years of experience as a Service Desk Analyst. My current goal is to become an ethical hacker and I also have a strong passion for video game development and programming. Here you will find passion projects as well as labs that focus on cybersecurity.</p>
+<p>Welcome to my Github page. My name is Tevin Falkner. I am an IT professional with 4+ years of IT support experience. My goal is to consistently expand on my knowledge of all things IT and cybersecurity. I also have a strong passion for video game development and programming. Here you will find passion projects as well as labs that focus on many aspects of IT and CyberSecurity.</p>
 
 <h2>Certifications</h2>
 - CompTia Security+ SY0-701 - July 2025 <br/>
